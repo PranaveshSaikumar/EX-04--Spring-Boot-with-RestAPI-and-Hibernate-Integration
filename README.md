@@ -99,3 +99,9 @@ public class MovieController {
         }).orElse(ResponseEntity.notFound().build());
     }
 }
+## OUTPUT:
+<img width="1897" height="968" alt="image" src="https://github.com/user-attachments/assets/d7c50bf7-3bc0-4ab3-900a-d3460d449c2e" />
+
+<img width="1498" height="751" alt="image" src="https://github.com/user-attachments/assets/43807c6a-e82f-4326-b39d-c7bc54b416be" />
+
+
