@@ -104,4 +104,5 @@ public class MovieController {
 
 <img width="1498" height="751" alt="image" src="https://github.com/user-attachments/assets/43807c6a-e82f-4326-b39d-c7bc54b416be" />
 
-
+## RESULT:
+Thus, a Spring Boot application to store and retrieve data from a Movies database using Object Relational Mapping (ORM) with Hibernate and expose it via REST APIs has been created and executed successfully.
